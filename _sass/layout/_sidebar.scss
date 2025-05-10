@@ -89,8 +89,8 @@
 
   @include breakpoint($large) {
     display: block;
-    width: 250px;
-    height: 300px;
+    // width: auto;
+    // height: auto;
   }
 
   img {
@@ -100,6 +100,8 @@
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid var(--global-border-color);
+      width: 300px;
+      height: auto
     }
   }
 }
