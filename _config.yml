@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Keyser-Quad-Ames-Headshot.jpg"
+  avatar           : "Keyser-Quad-Ames-Headshot.JPG"
   name             : "Ben Marlin"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Purdue University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "marlinb@purdue.edu" 
 
   # Academic websites
   academia         : # URL
