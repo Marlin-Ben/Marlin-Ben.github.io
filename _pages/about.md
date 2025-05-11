@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<span class="align-with-image"> Starting fall 2025, I'll be a 1st year PhD Student in Mathematics at Purdue University. I'm broadly interested in number theory and representation theory and plan to work on the Langlands program. From fall 2021 to the present, I've been a student at Johns Hopkins University, studying mathematics and philosophy. </span> 
-
-<img src="/images/Facing blackboard side profile.JPG" alt="Aligned image" class="align-right-edge-inline"
+<div class="aligned-container">
+  <span class="aligned-text">Starting fall 2025, I'll be a 1st year PhD Student in Mathematics at Purdue University. I'm broadly interested in number theory and representation theory and plan to work on the Langlands program. From fall 2021 to the present, I've been a student at Johns Hopkins University, studying mathematics and philosophy.</span>
+ <img src="/images/Facing blackboard side profile.JPG" alt="Aligned image" class="aligned-image"
 style="width: 400px; float: right; margin-left: 10px;"> 
+</div>
 
 During my undergraduate studies, I also spent some time abroad. I attended the summer 2023 session of Budapest Semesters in Mathematics, which is where I was first introduced to representation theory. In the summer of 2024, I received funding through the Aalto Science Institute International Summer Research Programme to travel to Aalto University in Espoo, Finland, where I researched the similarity classes of integer matrices under the supervision of Professor [Vanni Noferini](https://math.aalto.fi/~noferiv1/). It turns out such similarity classes have a lot to do with the ideal class group of a number field, so this research served as my introduction to algebraic number theory. 
 
