@@ -13,8 +13,7 @@ Education
 ======
 * Ph.D in Mathematics, Purdue University, Starting Fall 2025
 * BA/MA in Mathematics, Johns Hopkins University, 2021-2025
-
-Secondary major: Philosophy
+** Secondary major: Philosophy
 
 Work experience
 ======
