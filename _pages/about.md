@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Here is some text <img src="/images/themes/Facing blackboard side profile.JPG" alt="Small graphic" style="width: 150px; float: right; margin-left: 10px;"> that wraps around the image. More text follows...
+Here is some text <img src="/images/Facing blackboard side profile.JPG" alt="Small graphic" style="width: 150px; float: right; margin-left: 10px;"> that wraps around the image. More text follows...
 
 Starting fall 2025, I'll be a 1st year PhD Student in Mathematics at Purdue University. I'm broadly interested in number theory and representation theory and plan to work on the Langlands program. From fall 2021 to the present, I've been a student at Johns Hopkins University, studying mathematics and philosophy. 
 
