@@ -16,5 +16,8 @@ During my undergraduate studies, I also spent some time abroad. I attended the s
 
 I am passionate about teaching and have worked as a teaching assistant for calculus, linear algebra, real analysis, and abstract algebra courses at Johns Hopkins. I believe that everyone has the potential to have enjoyable and fulfilling interactions with mathematics and it is our job as educators to foster such experiences through patient, compassionate, and enthusiastic teaching. I look forward to teaching and learning from the undergraduate students at Purdue!
 
-Outside of academics, I enjoy spending time practicing Brazillian jiu-jitsu (that's me in the black rash guard below), playing basketball and tennis, and following my favorite sports teams (the New England Patriots and the Boston Celtics). <img src="/images/Jiu-jitsu (wideshot).jpg" alt="Aligned image" class="aligned-image"
-style="width: 500px; float: right; margin-left: 8px;"> 
+Outside of academics, I enjoy spending time practicing Brazillian jiu-jitsu (that's me in the black rash guard below), playing basketball and tennis, and following my favorite sports teams (the New England Patriots and the Boston Celtics). 
+
+<div class="center-image">
+  ![Centered Image](/images/Jiu-jitsu (wideshot).jpg)
+</div>
