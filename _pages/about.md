@@ -19,4 +19,4 @@ I am passionate about teaching and have worked as a teaching assistant for calcu
 Outside of academics, I enjoy spending time practicing Brazillian jiu-jitsu (that's me in the black rash guard below), playing basketball and tennis, and following my favorite sports teams (the New England Patriots and the Boston Celtics). 
 
 <img src="/images/Jiu-jitsu (wideshot).jpg" alt="Aligned image" class="aligned-image"
-style="width: 350px; float: left"> 
+style="width: 450px; float: left"> 
