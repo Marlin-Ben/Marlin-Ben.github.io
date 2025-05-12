@@ -23,7 +23,7 @@ Research Experience
   * Used module and number theoretic techniques to understand the similarity classes of integer matrices
     * Read sections of David Husert's dissertation "Similarity of Integer Matrices" and Irving Reiner's "Maximal Orders" for relevant module theoretic background
     * Read sections of J.S. Milne's "Algebraic Number Theory" and "On principal ideal testing in algebraic number fields" and related papers by Johannes Buchmann for number theoretic background and algorithms
-  *  Wrote an [expository report](files/Integer Matrices (5-12-25).pdf) to aid in Professor Noferini's research. 
+  *  Wrote an [expository report](/files/Integer Matrices (5-12-25).pdf) to aid in Professor Noferini's research. 
  
   
 Talks
