@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<br>
+<br style="line-height: 0.5;">
 
 Education
 ======
