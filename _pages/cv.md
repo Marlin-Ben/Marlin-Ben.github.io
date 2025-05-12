@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+
+
 Education
 ======
 * Ph.D in Mathematics, Purdue University, Starting Fall 2025
