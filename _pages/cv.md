@@ -26,13 +26,19 @@ Research Experience
   * Advisors: Professor Vanni Noferini (primary) and Professor [David Savitt](https://mathematics.jhu.edu/directory/david-savitt/) (secondary)
   * Continued summer project on integer matrices
   * Proved that the number of similarity classes of integer matrices with given minimal and characteristic polynomial is finite if and only if the minimal polynomial is squarefree
- 
   
 Talks
 ======
 * Similarity of Integer Matrices, JHU Math Club, November 2024
 * An Introduction to the Classification of Finite Simple Groups, JHU Math Club, April 2024
-  
+
+Awards
+======
+* Ross Fellowship, Purdue University
+  * Recruitment fellowship for PhD students providing additional funding for four years and one year without teaching responsibilities
+* Mathematics Department Service Award, Johns Hopkins University, April 2025
+
+
 Teaching
 ======
 Teaching Assistant at Johns Hopkins University:
