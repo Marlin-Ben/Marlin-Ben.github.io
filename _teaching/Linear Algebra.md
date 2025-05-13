@@ -11,4 +11,4 @@ Teaching assistant for introductory linear algebra course taught by Emily Riehl.
 
 Notes:
 ======
-* [Notes from recitation section](LA-Recitation-Notes.pdf) (reverse chronological order)
+* [Recitation section notes](LA-Recitation-Notes.pdf) (reverse chronological order)
