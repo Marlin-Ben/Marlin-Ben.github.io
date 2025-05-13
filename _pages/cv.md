@@ -19,14 +19,10 @@ Research Experience
 * Undergraduate Research in Mathematics course, Johns Hopkins University, fall 2024
   * Advisors: Professor Vanni Noferini (primary) and Professor [David Savitt](https://mathematics.jhu.edu/directory/david-savitt/) (secondary)
   * Continuation of summer research project on integer matrices
-  * Proved that the number of similarity classes of integer matrices with given minimal and characteristic polynomial is finite if and only if the minimal polynomial is squarefree (among other additions to expository report)
 * Research Assistant, Department of Mathematics and Systems Analysis, Aalto University, summer 2024
   * Advisor: Professor [Vanni Noferini](https://math.aalto.fi/~noferiv1/)
   * Used module and number theoretic techniques to understand the similarity classes of integer matrices
-    * Read sections of David Husert's dissertation "Similarity of Integer Matrices" and Irving Reiner's "Maximal Orders" for module theoretic background
-    * Read sections of J.S. Milne's "Algebraic Number Theory" and "On principal ideal testing in algebraic number fields" by Johannes Buchmann for number theoretic background and algorithms
   *  Wrote an [expository report](Integer-Matrices.pdf) to aid in Professor Noferini's research
- 
   
 Talks
 ======
