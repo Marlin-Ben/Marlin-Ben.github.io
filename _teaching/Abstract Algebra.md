@@ -11,3 +11,6 @@ Sole teaching assistant and grader for a nine student introductory group theory 
 
 Notes:
 ======
+* [Sylow theorems and simple groups](Sylow-Simple.pdf)
+* [Final exam review and practice problems](AA-Final-Review.pdf)
+* [Midterm exam practice problems](AA-Midterm-Review.pdf)
