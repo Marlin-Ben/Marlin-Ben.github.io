@@ -1,7 +1,6 @@
 ---
 layout: archive
-title: <u> Teaching </u>
-permalink: /Teaching/
+title: <u> Introduction to Abstract Algebra </u>
 author_profile: true
 ---
 
