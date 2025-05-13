@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Abstract Algebra"
 collection: teaching
-type: AS.110.411
+type: AS.110.201
 permalink: /teaching/Abstract-Algebra
 venue: "JHU"
 date: 2025-05-13
