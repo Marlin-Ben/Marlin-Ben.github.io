@@ -7,13 +7,4 @@ venue: "JHU"
 date: 01/23/2025
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Sole teaching assistant and grader for a nine student introductory group theory course. We covered elementary group theory up to the Sylow theorems and the fundamental theorem of finitely generated abelian groups. 
