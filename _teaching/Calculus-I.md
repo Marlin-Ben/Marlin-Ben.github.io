@@ -1,7 +1,7 @@
 ---
 title: "Calculus I for Biological and Social Sciences"
 collection: teaching
-type: "AS.110.201"
+type: "AS.110.106"
 permalink: /teaching/Calculus-I
 venue: "JHU"
 date: 23/01/2024
