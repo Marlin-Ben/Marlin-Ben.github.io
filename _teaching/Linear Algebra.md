@@ -7,13 +7,8 @@ venue: "JHU"
 date: 09/01/2024
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistant for introductory linear algebra course taught by Emily Riehl. We covered standard topics such as row reduced echelon form, linear systems of equations, abstract vector spaces and linear maps, determinants, eigenvalues, and inner product spaces. We did not cover more advanced topics such as generalized eigenspaces and the Jordan canonical form. 
 
-Heading 1
+Notes:
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+* [Notes from recitation section](LA-Recitation-Notes.pdf) (reverse chronological order)
