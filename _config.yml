@@ -248,11 +248,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-  #_teaching
-  -scope:
+  # _teaching
+  - scope:
       path: ""
       type: teaching
-  values:
+    values:
       layout: single
       author_profile: true
       share: false
