@@ -4,7 +4,6 @@ collection: teaching
 type: 
 permalink: /teaching/Abstract-Algebra
 venue: 
-date: 
 location: 
 ---
 
