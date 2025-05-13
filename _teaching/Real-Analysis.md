@@ -11,4 +11,4 @@ Teaching assistant for smaller upper-level real analysis course taught by [Richa
 
 Comments:
 ======
-
+* This was an experimental writing-intensive version of the usual real analysis course at Hopkins. Some instructional time in lectures and recitation sections was explicitly dedicated to addressing how to write mathematics for audiences of varying mathematical maturity. Additional details can be found [here](Real-Analysis-Writing-Intensive.pdf). 
