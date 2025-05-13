@@ -4,7 +4,7 @@ collection: teaching
 type: 
 permalink: /teaching/Abstract-Algebra
 venue: 
-date: spring 2024
+date: 
 location: 
 ---
 
