@@ -7,7 +7,7 @@ venue: "JHU"
 date: 23/01/2025
 ---
 
-Sole teaching assistant for nine student introductory group theory course taught by [Yueqiao Wu](https://sites.google.com/view/yueqiaow/). We covered elementary group theory up to the Sylow theorems and the fundamental theorem of finitely generated abelian groups. 
+Sole teaching assistant for nine student introductory group theory course taught by [Yueqiao Wu](https://sites.google.com/view/yueqiaow/). We covered elementary group theory up to the Sylow theorems and the fundamental theorem of finitely generated abelian groups. We used M. A. Armstrong's book "Groups and Symmetry" as a rough guide. 
 
 Notes:
 ======
