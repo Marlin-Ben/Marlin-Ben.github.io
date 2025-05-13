@@ -3,6 +3,7 @@ title: "Introduction to Abstract Algebra"
 collection: teaching
 type: 
 permalink: /teaching/Abstract-Algebra
+date: 05-13-2025
 venue: 
 location: 
 ---
