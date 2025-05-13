@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <h1 style="text-decoration-line: underline;">CV</h1>
+title: <ins> CV </ins>
 permalink: /cv/
 author_profile: true
 redirect_from:
