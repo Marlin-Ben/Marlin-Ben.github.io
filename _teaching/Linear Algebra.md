@@ -1,7 +1,6 @@
 ---
 layout: archive
-title: <u> Teaching </u>
-permalink: /Teaching/
+title: Linear Algebra
 author_profile: true
 ---
 
