@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <u> Introduction to Abstract Algebra </u>
+title: Introduction to Abstract Algebra
 author_profile: true
 ---
 
