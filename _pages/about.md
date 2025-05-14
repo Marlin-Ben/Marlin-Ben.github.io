@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I'm Ben!"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
