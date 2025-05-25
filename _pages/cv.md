@@ -32,7 +32,7 @@ Talks
 Awards
 ======
 * Ross Fellowship, Purdue University
-  * Recruitment fellowship for PhD students providing additional funding for four years and one year without teaching responsibilities
+  * Competitive recruitment fellowship for PhD students providing additional funding for four years and one year without teaching responsibilities
 * Mathematics Department Service Award, Johns Hopkins University, April 2025
 
 Teaching
