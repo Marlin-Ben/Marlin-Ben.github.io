@@ -22,7 +22,7 @@ Research Experience
 * Research Assistant, Department of Mathematics and Systems Analysis, Aalto University, summer 2024
   * Advisor: Professor [Vanni Noferini](https://math.aalto.fi/~noferiv1/)
   * Used module and number theoretic techniques to understand the similarity classes of integer matrices
-  *  Wrote an [expository report](Integer-Matrices.pdf) to aid in Professor Noferini's research
+  *  Wrote an [expository report](Integer-Matrices-6-26-25.pdf) to aid in Professor Noferini's research
   
 Talks
 ======
