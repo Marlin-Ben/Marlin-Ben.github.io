@@ -251,7 +251,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: pages
+      type: teaching
     values:
       layout: single
       author_profile: true
