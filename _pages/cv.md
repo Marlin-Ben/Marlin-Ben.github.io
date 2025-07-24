@@ -16,9 +16,6 @@ Education
 
 Research Experience
 ======
-* Undergraduate Research in Mathematics course, Johns Hopkins University, fall 2024
-  * Advisors: Professor Vanni Noferini (primary) and Professor [David Savitt](https://mathematics.jhu.edu/directory/david-savitt/) (secondary)
-  * Continuation of summer research project on integer matrices
 * Research Assistant, Department of Mathematics and Systems Analysis, Aalto University, summer 2024
   * Advisor: Professor [Vanni Noferini](https://math.aalto.fi/~noferiv1/)
   * Used module and number theoretic techniques to understand the similarity classes of integer matrices
