@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, Purdue University, in progress, Fall 2025 - Present
+* Ph.D in Mathematics, Purdue University, in progress, fall 2025 - present
 * BA/MA in Mathematics, Johns Hopkins University, 2021-2025
   * Secondary major: Philosophy
 
