@@ -10,8 +10,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, Purdue University, Starting Fall 2025
-* BA/MA in Mathematics (Honors), Johns Hopkins University, 2021-2025
+* Ph.D in Mathematics, Purdue University, in progress, Fall 2025 - Present
+* BA/MA in Mathematics, Johns Hopkins University, 2021-2025
   * Secondary major: Philosophy
 
 Research Experience
@@ -34,10 +34,11 @@ Awards
 
 Teaching
 ======
+Teaching Assistant at Purdue University:
+* Multivariate Calculus (MA 261), fall 2025
 Teaching Assistant at Johns Hopkins University:
 * Introduction to Abstract Algebra (AS.110.405), spring 2025
 * Linear Algebra (AS.110.201), fall 2024
 * Calculus I for Biological and Social Sciences (AS.110.106), spring 2024
-
 Course Assistant at Johns Hopkins University: 
 * Real Analysis (AS.110.405), fall 2023
