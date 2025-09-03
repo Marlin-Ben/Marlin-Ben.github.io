@@ -36,9 +36,11 @@ Teaching
 ======
 Teaching Assistant at Purdue University:
 * Multivariate Calculus (MA 261), fall 2025
+  
 Teaching Assistant at Johns Hopkins University:
 * Introduction to Abstract Algebra (AS.110.405), spring 2025
 * Linear Algebra (AS.110.201), fall 2024
 * Calculus I for Biological and Social Sciences (AS.110.106), spring 2024
+  
 Course Assistant at Johns Hopkins University: 
 * Real Analysis (AS.110.405), fall 2023
