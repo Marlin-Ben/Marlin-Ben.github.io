@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st year PhD Student in Mathematics at Purdue University. I'm interested in number theory and representation theory and plan to work on automorphic forms and the Langlands program. From fall 2021 to spring 2025, I was an undergraduate student at Johns Hopkins University. 
+I am a 1st year PhD Student in Mathematics at Purdue University. I am interested in number theory and representation theory and plan to work on automorphic forms and the Langlands program during my PhD. From fall 2021 to spring 2025, I was an undergraduate student at Johns Hopkins University. 
 
 <img src="/images/Facing blackboard side profile.JPG" alt="Aligned image" class="aligned-image"
 style="width: 350px; float: right; margin-left: 8px;"> 
