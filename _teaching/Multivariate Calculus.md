@@ -3,7 +3,7 @@ title: "Multivariate Calculus"
 collection: teaching
 type: "MA 261"
 permalink: /teaching/Multivariate Calculus
-venue: "Purdue"
+venue: "Purdue University"
 date: 25/08/2025
 ---
 
