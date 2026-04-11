@@ -11,15 +11,13 @@ redirect_from:
 Education
 ======
 * Ph.D in Mathematics, Purdue University, in progress, fall 2025 - present
-* BA/MA in Mathematics, Johns Hopkins University, 2021-2025
-  * Secondary major: Philosophy
+* BA/MA in Mathematics, BA in Philosophy, Johns Hopkins University, 2021-2025
 
 Research Experience
 ======
 * Research Assistant, Department of Mathematics and Systems Analysis, Aalto University, summer 2024
   * Advisor: Professor [Vanni Noferini](https://math.aalto.fi/~noferiv1/)
-  * Used module and number theoretic techniques to understand the similarity classes of integer matrices
-  *  Wrote an [expository report](Integer-Matrices-6-26-25.pdf) to aid in Professor Noferini's research
+  *  Wrote [notes](Integer-Matrices-6-26-25.pdf) compiling and expanding on module and number theoretic techniques in the study of similarity classes of integer matrices
   
 Talks
 ======
@@ -28,8 +26,8 @@ Talks
 
 Awards
 ======
-* Ross Fellowship, Purdue University
-  * Competitive recruitment fellowship for PhD students providing additional funding for four years and one year without teaching responsibilities
+* [Ross Fellowship](https://www.purdue.edu/academics/ogsps/fellowship/ogsps-fellowships/), Purdue University
+  * "For recruiting outstanding Ph.D.-track students to Purdue graduate programs, each fellowship provides a four-year award with a salary, tuition coverage, and a medical insurance supplement."
 * Mathematics Department Service Award, Johns Hopkins University, April 2025
 
 Teaching
